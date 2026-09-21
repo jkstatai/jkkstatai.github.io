@@ -1,5 +1,5 @@
 # academic
-Personal academic website of Justin Kao.
+
 ### A Jekyll theme for academia
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
