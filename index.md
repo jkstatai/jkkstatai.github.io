@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hi y’all, welcome to my page. I am currently a 2nd year PhD student in Statistics at the <a href="https://statistics.rice.edu/" target="_blank">Department of Statistics, George R. Brown School of Engineering and Computing, Rice University</a>.
+Hi y’all, welcome to my page. I am currently a PhD student in Statistics at the <a href="https://statistics.rice.edu/" target="_blank">Department of Statistics, George R. Brown School of Engineering and Computing, Rice University</a>.
 My research lies at the intersection of Bayesian methodology, predictive inference, time series analysis, and differential privacy, with application interests in quantitative trading and actuarial science.
 
 Currently, I work with <a href="https://meng.rice.edu/" target="_blank">Dr. Meng Li</a> at Rice University on _Hierarchical Bayes Optimal Posterior Contraction for Gaussian Process Derivative Functionals_.
