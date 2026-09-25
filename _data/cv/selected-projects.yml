@@ -4,10 +4,18 @@
 #- title: 'Associate Faculty'
 #  description: 'McGill University (1987 – 2005)'
 
-- title: 'STAT 663 Computing: Pills Inside Bottles'
+- title: 'STAT 663 Computing: Optimal Embedding Techniques for Pill Classification'
   description: 'Duke University'
   url: 'https://jkstatai.github.io/Selected%20Projects/STAT_663%20_roject2%20-%20Pills%20Inside%20Bottles.pdf'
 
 - title: 'ECE 684 NLP: Deciphering Doctor Scribble'
   description: 'Duke University'
   url: 'https://jkstatai.github.io/Selected%20Projects/ECE_684_Natural_Language_Processing_Final_Project (1).pdf'
+
+- title: 'STAT 790 Extra Linear Models: PCA & PLS Models for Mortality' 
+  description: 'Duke University'
+  url: 'https://jkstatai.github.io/Selected%20Projects/STA_790__Special_Topics___Extra_Linear_Models.pdf'
+
+- title: 'STAT 610 Hierarchical Model: Sparrow Experiment Design'
+  description: 'Duke University'
+  url: 'https://jkstatai.github.io/Selected%20Projects/STAT_610_Data_analysis_report___Sparrow.pdf'
