@@ -35,20 +35,6 @@ layout: default
 
     <div class="row mb-5">
       <div class="col-md-2">
-        <h4>Academic Experience</h4>
-      </div>
-      <div class="col-md-10" style="padding-left: 4rem;">
-        {% for section in site.data.cv.academic-experience %}
-          <div class="mb-4">
-            <p class="fw-bold mb-1">{{ section.title }}</p>
-            <p class="mb-0">{{ section.description }}</p>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-
-    <div class="row mb-5">
-      <div class="col-md-2">
         <h4>Selected Course Projects</h4>
       </div>
       <div class="col-md-10" style="padding-left: 4rem;">
@@ -61,6 +47,19 @@ layout: default
       </div>
     </div>
 
+    <div class="row mb-5">
+      <div class="col-md-2">
+        <h4>Academic Experience</h4>
+      </div>
+      <div class="col-md-10" style="padding-left: 4rem;">
+        {% for section in site.data.cv.academic-experience %}
+          <div class="mb-4">
+            <p class="fw-bold mb-1">{{ section.title }}</p>
+            <p class="mb-0">{{ section.description }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
   </div>
-</div>
 </div>
