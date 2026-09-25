@@ -4,6 +4,10 @@
 #- title: 'Associate Faculty'
 #  description: 'McGill University (1987 – 2005)'
 
-- title: 'STAT 663 Project 2 - Pills Inside Bottles'
+- title: 'STAT 663 Computing: Pills Inside Bottles'
   description: 'Duke University'
   url: 'https://jkstatai.github.io/Selected%20Projects/STAT_663%20_roject2%20-%20Pills%20Inside%20Bottles.pdf'
+
+- title: 'ECE 684 NLP: Deciphering Doctor Scribble'
+  description: 'Duke University'
+  url: 'https://jkstatai.github.io/Selected%20Projects/ECE_684%20Project%202%20-%20Pills%20Inside%20Bottles.pdf'
