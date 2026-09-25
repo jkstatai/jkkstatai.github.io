@@ -40,7 +40,7 @@ layout: default
       <div class="col-md-10" style="padding-left: 4rem;">
         {% for section in site.data.cv.selected-projects %}
           <div class="mb-4">
-            <p class="fw-bold mb-1">{{ section.title }}</p>
+            <a href="{{ section.url }}" target="_blank" class="fw-bold mb-1">{{ section.title }}</a>
             <p class="mb-0">{{ section.description }}</p>
           </div>
         {% endfor %}
